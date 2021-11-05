@@ -1,0 +1,33 @@
+## Limpieza de datos
+- Se eliminaron textos asociados a los pie de página o encabezados de cada página.
+- Se eliminaron títulos frecuentes como "Objetivo general".
+
+
+## Origen de los datos
+KAST
+- https://www.servel.cl/wp-content/uploads/2017/09/Programa_Jose_Antonio_Kast_Rist.pdf
+- 57 páginas
+
+SICHEL
+- https://sichelpresidente.cl/wp-content/uploads/2021/10/Programa-de-gobierno.pdf
+- 131 páginas
+
+BORIC
+- https://drive.google.com/file/d/1x75w-xW8xpxiEiJLKAbYMmdZ_d0eM7b9/view?usp=sharing
+- 227 páginas
+
+PROVOSTE
+- https://yasnapresidenta.cl/wp-content/uploads/2021/11/Programa-Yasna-Provoste.pdf
+- 179 páginas
+
+ARTES
+- http://unionpatriotica.cl/wp-content/uploads/2021/10/Programa-Politico-UPA.pdf
+- 54 páginas
+
+PARISI
+- https://presidenciales2021.servel.cl/wp-content/uploads/2021/09/PROGRAMA-FRANCO-PARISI-FERNANDEZ.pdf
+- 116 páginas
+
+ENRIQUEZ-OMINAMI
+- https://presidenciales2021.servel.cl/wp-content/uploads/2021/11/MARCO-ENRIQUEZ-OMINAMI.pdf
+- 134 páginas
